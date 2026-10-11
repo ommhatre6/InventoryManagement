@@ -1,13 +1,13 @@
 AI ENGINEERING JOURNAL
 
-Project: Inventory Management System
-Language: C++
-Repository: InventoryManagement
+Project: Inventory Management System.
+Language: C++.
+Repository: InventoryManagement.
 IDE: Visual Studio Code.
 
-AI assistant: GitHub Copilot
-Test framework: doctest
-Compiler: MSYS2 UCRT64 GCC (version not recorded)
+AI assistant: GitHub Copilot.
+Test framework: doctest.
+Compiler: MSYS2 UCRT64 GCC (version not recorded).
 
 
 
@@ -80,7 +80,7 @@ results to validate behavior. I did not perform a refactoring task.
 GIT RECORD
 ----------
 Remote: https://github.com/ommhatre6/InventoryManagement
-Commit ID and message: Not recorded; add these from `git log -1 --oneline`.
+Commit ID and message: 513cdae Build C++ inventory management system with doctest tests
 
 CONCLUSION
 ----------
