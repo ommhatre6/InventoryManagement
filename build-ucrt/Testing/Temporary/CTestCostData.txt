@@ -1,0 +1,2 @@
+inventory_tests 1 2.05047
+---

@@ -1,0 +1,24 @@
+Start testing: Oct 11 16:14 India Standard Time
+----------------------------------------------------------
+1/1 Testing: inventory_tests
+1/1 Test: inventory_tests
+Command: "D:/InventoryManagement/build-ucrt/inventory_tests.exe"
+Directory: D:/InventoryManagement/build-ucrt
+"inventory_tests" start time: Oct 11 16:14 India Standard Time
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.5.0"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases:  5 |  5 passed | 0 failed | 0 skipped
+[doctest] assertions: 14 | 14 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   2.05 sec
+----------------------------------------------------------
+Test Passed.
+"inventory_tests" end time: Oct 11 16:14 India Standard Time
+"inventory_tests" time elapsed: 00:00:02
+----------------------------------------------------------
+
+End testing: Oct 11 16:14 India Standard Time

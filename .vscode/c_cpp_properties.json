@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "configurationProvider": "ms-vscode.cmake-tools",
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:/msys64/ucrt64/bin/g++.exe",
+            "cStandard": "gnu11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-x86",
+            "includePath": [
+                "${default}",
+                "${workspaceFolder}/src"
+            ]
+        }
+    ],
+    "version": 4
+}

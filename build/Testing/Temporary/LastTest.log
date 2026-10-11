@@ -1,0 +1,19 @@
+Start testing: Oct 11 15:44 India Standard Time
+----------------------------------------------------------
+Unable to find executable: D:/InventoryManagement/build/inventory_tests.exe
+1/1 Testing: inventory_tests
+1/1 Test: inventory_tests
+Command: ""
+Directory: D:/InventoryManagement/build
+"inventory_tests" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"inventory_tests" end time: Oct 11 15:44 India Standard Time
+"inventory_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 11 15:44 India Standard Time

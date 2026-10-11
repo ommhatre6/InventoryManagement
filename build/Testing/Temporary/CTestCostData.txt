@@ -1,0 +1,3 @@
+inventory_tests 0 0
+---
+inventory_tests
